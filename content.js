@@ -21,6 +21,7 @@ const generateSTYLES = () => {
       z-index: 2;
       height: 250px;
       letter-spacing: 15px;
+      color:red;
     }
     ._1 {
       text-align: center;
@@ -34,7 +35,8 @@ const generateSTYLES = () => {
       text-align: center;
       display: block;
       position: relative;
-      font-size: 20px;
+      font-size: 40px;
+      color:blue;
     }
     .text {
       font-size: 70px;
