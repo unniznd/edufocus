@@ -250,12 +250,6 @@ const generateSTYLES = () => {
     </div>
      `;
   };
-  
-  
-
-
-
-
 
 document.addEventListener('DOMContentLoaded', function () {
     chrome.storage.local.get(['site', 'from', 'to'], function (result) {
